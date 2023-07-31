@@ -1,5 +1,5 @@
-import CreationalPattern.BuilderPattern;
-import CreationalPattern.Car;
+import CreationalPattern.Builder.BuilderPattern;
+import CreationalPattern.Builder.Car;
 
 public class Main {
     public static void main(String[] args) {
